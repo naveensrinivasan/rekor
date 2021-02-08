@@ -13,12 +13,12 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-openapi/errors v0.19.9
-	github.com/go-openapi/loads v0.20.0
+	github.com/go-openapi/loads v0.20.2
 	github.com/go-openapi/runtime v0.19.26
-	github.com/go-openapi/spec v0.20.1
+	github.com/go-openapi/spec v0.20.3
 	github.com/go-openapi/strfmt v0.20.0
-	github.com/go-openapi/swag v0.19.13
-	github.com/go-openapi/validate v0.20.1
+	github.com/go-openapi/swag v0.19.14
+	github.com/go-openapi/validate v0.20.2
 	github.com/golang/protobuf v1.4.3
 	github.com/google/certificate-transparency-go v1.1.0 // indirect
 	github.com/google/go-cmp v0.5.2
@@ -44,7 +44,7 @@ require (
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	golang.org/x/mod v0.4.1 // indirect
-	golang.org/x/net v0.0.0-20201224014010-6772e930b67b
+	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
 	golang.org/x/oauth2 v0.0.0-20201109201403-9fd604954f58 // indirect
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/sys v0.0.0-20210113181707-4bcb84eeeb78 // indirect
